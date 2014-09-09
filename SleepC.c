@@ -1,7 +1,7 @@
 // Creado por ArchangelSmarth 18/07/2014
 // version 1.0.0
 // Escuintla_Guatemala
-// Copyright © 2007 Free Software Foundation, Inc
+// Copyright © 2007 Rafael Garcia Sagastume, Inc
 
 #include <stdio.h>
 #include <sys/time.h>
